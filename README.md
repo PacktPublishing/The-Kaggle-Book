@@ -44,7 +44,7 @@ Whether you want to climb the ranks of Kaggle, build some more data science skil
 * Create a portfolio of projects and ideas to get further in your career
 
 ## Who This Book Is For
-This book is suitable for Kaggle users and data analysts/scientists of all experience levels who are trying to do better in Kaggle competitions and secure jobs with tech giants.
+This book is suitable for Kaggle users and data analysts/scientists with at least a basic proficiency in data science topics and Python who are trying to do better in Kaggle competitions and secure jobs with tech giants. At the time of completion of this book, there are 96,190 Kaggle novices (users who have just registered on the website) and 67,666 Kaggle contributors (users who have just filled in their profile) enlisted in Kaggle competitions. This book has been written with all of them in mind and with anyone else wanting to break the ice and start taking part in competitions on Kaggle and learning from them.
 
 ## Table of Contents
 ### Part 1
