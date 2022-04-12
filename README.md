@@ -1,6 +1,12 @@
-# Data Analysis and Machine Learning with Kaggle
-Code Repository for Data Analysis and Machine Learning with Kaggle, Published by Packt
+# The Kaggle Book
+## Data analysis and machine learning for competitive data science
+<B>Code Repository for The Kaggle Book, Published by Packt Publishing</B>
 
+
+<EM>"Luca and Konradˈs book helps make Kaggle even more accessible. They are both top-ranked users and well-respected members of the Kaggle community. Those who complete this book should expect to be able to engage confidently on Kaggle – and engaging confidently on Kaggle has many rewards."</EM>
+<B>— Anthony Goldbloom, Kaggle Founder & CEO</B>
+
+  
 <table class="noBorder">
   <tr>
     <td width="50%" height="50%"> 
@@ -9,10 +15,11 @@ Code Repository for Data Analysis and Machine Learning with Kaggle, Published by
     <td valign="top">
       <H2>Key Features</H2>
       <ul>
-      <li> Learn how Kaggle works and how to make the most of competitions from two expert Kagglers </li>
+      <li> Learn how Kaggle works and how to make the most of competitions from two expert Kaggle Grandmasters </li>
       <li> Sharpen your modeling skills with ensembling, feature engineering, adversarial validation, AutoML, transfer learning, and techniques for parameter tuning </li>
-      <li> Discover tips, tricks, and best practices for winning on Kaggle and becoming a better data scientist </li>
-      <li> Read interviews with Kaggle Masters and Grandmasters telling about their experience and tips</li>
+      <li> Challenge yourself with problems regarding tabular data, vision, natural language as well as simulation and optimization</li>
+      <li> Discover tips, tricks, and best practices for getting great results on Kaggle and becoming a better data scientist </li>
+      <li> Read interviews with 31 Kaggle Masters and Grandmasters telling about their experience and tips</li>
       </ul>
     </td>
   </tr> 
@@ -37,7 +44,7 @@ Whether you want to climb the ranks of Kaggle, build some more data science skil
 * Create a portfolio of projects and ideas to get further in your career
 
 ## Who This Book Is For
-This book is suitable for Kaggle users and data analysts/scientists of all experience levels who are trying to do better in Kaggle competitions and secure jobs with tech giants.
+This book is suitable for Kaggle users and data analysts/scientists with at least a basic proficiency in data science topics and Python who are trying to do better in Kaggle competitions and secure jobs with tech giants. At the time of completion of this book, there are 96,190 Kaggle novices (users who have just registered on the website) and 67,666 Kaggle contributors (users who have just filled in their profile) enlisted in Kaggle competitions. This book has been written with all of them in mind and with anyone else wanting to break the ice and start taking part in competitions on Kaggle and learning from them.
 
 ## Table of Contents
 ### Part 1
@@ -49,14 +56,14 @@ This book is suitable for Kaggle users and data analysts/scientists of all exper
 
 ### Part 2
 
-5.	Detailing Competition Tasks and Metrics
+5.	Competition Tasks and Metrics
 6.	Designing Good Validation
 7.	Modeling for Tabular Competitions
 8.	Hyperparameter Optimization
-9.	Ensembling and Stacking Solutions
-10.	Modeling for Image Classification and Segmentation
+9.	Ensembling with Blending and Stacking Solutions
+10.	Modeling for Computer Vision
 11.	Modeling for NLP
-12.	Handling Simulation and Optimization Competitions
+12.	Simulation and Optimization Competitions
 
 ### Part 3
 
