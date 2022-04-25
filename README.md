@@ -25,6 +25,8 @@
   </tr> 
 </table>
 
+ <img src="https://github.com/PacktPublishing/Data-Analysis-and-Machine-Learning-with-Kaggle/blob/main/contributors.jpg?raw=true">
+
 <B><EM>Get a step ahead of your competitors with a concise collection of smart data handling and modeling techniques</EM></B>
 
 ## Book Description
