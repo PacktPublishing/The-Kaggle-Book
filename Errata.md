@@ -5,7 +5,7 @@ If you find any mistakes in The Kaggle Book, or if you have suggestions for impr
 
 ## Chapter 05, Page no 116, Table 5.1 - Fixed description as per table cells
 
-<img src="https://github.com/PacktPublishing/The-Kaggle-Book/blob/main/Errata/Errata-Table5.1.PNG">
+<img src="https://github.com/PacktPublishing/The-Kaggle-Book/blob/main/Errata image/Errata-Table5.1.PNG">
 
 
 
