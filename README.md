@@ -33,7 +33,7 @@
 
 
 
-You can run these notebooks on cloud platforms like [Kaggle](https://www.kaggle.com/) or your local machine. Note that most chapters require a GPU even TPU sometimes to run in a reasonable amount of time, so we recommend one of the cloud platforms as they come pre-installed with CUDA.
+You can run these notebooks on cloud platforms like [Kaggle](https://www.kaggle.com/) [Colab](https://colab.research.google.com/) or your local machine. Note that most chapters require a GPU even TPU sometimes to run in a reasonable amount of time, so we recommend one of the cloud platforms as they come pre-installed with CUDA.
 
 
 
