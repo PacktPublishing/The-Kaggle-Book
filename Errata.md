@@ -17,3 +17,10 @@ Here is how we define the cells:
 * **FP (false positives)**: These are located in the `upper-right cell`, containing examples that have been predicted as positive but are actually negative.
 * **FN (false negatives)**: These are located in the `lower-left cell`, containing examples that have been predicted as negative but are actually positive.
 * **TN (true negatives)**: These are located in the `upper-left cell`, containing examples that have been correctly predicted as negative ones.
+
+
+## Chapter 05, Page no 110, Mean squared error (MSE) and R squared
+
+Following is the correct formula for `R squared` "co-efficient of determination":
+
+<img src="https://github.com/PacktPublishing/The-Kaggle-Book/blob/main/Errata image/Rsquared.png">
