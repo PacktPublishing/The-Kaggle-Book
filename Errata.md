@@ -24,3 +24,8 @@ Here is how we define the cells:
 Following is the correct formula for `R squared` "co-efficient of determination":
 
 <img src="https://github.com/PacktPublishing/The-Kaggle-Book/blob/main/Errata image/Rsquared.png">
+
+
+## Chapter 06, Page no 184, feature_19 and feature_54
+
+Instead of feature_19 and feature_54, the correct features, that appear the most different between the training/test split, are cont14, cont4 and cont5.
