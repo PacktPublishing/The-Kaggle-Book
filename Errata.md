@@ -25,6 +25,9 @@ Following is the correct formula for `R squared` "co-efficient of determination"
 
 <img src="https://github.com/PacktPublishing/The-Kaggle-Book/blob/main/Errata image/Rsquared.png">
 
+## Chapter 06, Page no 183, reference to test casees number
+
+change "only 1,495" to "about 24,500"
 
 ## Chapter 06, Page no 184, feature_19 and feature_54
 
