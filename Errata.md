@@ -25,10 +25,18 @@ Following is the correct formula for `R squared` "co-efficient of determination"
 
 <img src="https://github.com/PacktPublishing/The-Kaggle-Book/blob/main/Errata image/Rsquared.png">
 
-## Chapter 06, Page no 183, reference to test casees number
+## Chapter 05, Page no 121, correct reference to the panel in an image
 
-change "only 1,495" to "about 24,500"
+The first paragraph says: "A bad classifier can be spotted by the ROC curve appearing very similar, if not identical, to the diagonal of the chart, which represents the performance of a purely random classifier, as in the top right of Figure 5.3; ROC-AUC scores near 0.5 are considered to be almost random results."
+
+## Chapter 05, Page no 130, typo in the name of the model SSD
+
+The last line of the note should say: ".....YOLO (https://arxiv.org/abs/1506.02640v1), Faster R-CNN https://arxiv.org/abs/1506.01497v1), or SSD (https://arxiv.org/abs/1512.02325)."
+
+## Chapter 06, Page no 183, reference to test case number
+
+Change "only 1,495" to "about 24,500"
 
 ## Chapter 06, Page no 184, feature_19 and feature_54
 
-Instead of feature_19 and feature_54, the correct features, that appear the most different between the training/test split, are cont14, cont4 and cont5.
+Instead of feature_19 and feature_54, the correct features that appear the most different between the training/test split are cont14, cont4, and cont5.
